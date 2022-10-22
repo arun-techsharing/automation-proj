@@ -1,0 +1,12 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.app-wrap{
+    width: 1300px;
+    margin: 0 auto;
+}
+.card-style {
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+}
+.mrg-top-20{
+    margin-top:20px;
+}
