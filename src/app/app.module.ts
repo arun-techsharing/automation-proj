@@ -8,11 +8,13 @@ import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { BtnEventsComponent } from './btn-events/btn-events.component';
+import { TxtBoxComponent } from './txt-box/txt-box.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    BtnEventsComponent
+    BtnEventsComponent,
+    TxtBoxComponent
   ],
   imports: [
     BrowserModule,
